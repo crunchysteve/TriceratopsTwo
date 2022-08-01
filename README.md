@@ -1,3 +1,3 @@
 # TriceratopsTwo
 OpenScad Plans for a lean steering, recumbent, tadpole trike.
-![](TriceratopsTwo/LeanSteer.gif)
+![LeanSteer.gif](TriceratopsTwo/LeanSteer.gif)
