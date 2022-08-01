@@ -1,4 +1,4 @@
-use <../wheelERTRO406-50.scad>
+use <./wheelERTRO406-50.scad>
 
 translate([900,0,0]) rotate([0,0,24.2]){
     translate([0,-350,0]) rotate([-5.7,0,0]){
