@@ -17,7 +17,7 @@ color("red") translate([-1300,310,-160])
 
 color("lightblue"){
     translate([-486,0,66]) 
-            rotate([0,4.3,0]) import("../RearTri.stl");
+            rotate([0,4.3,0]) import("./RearTri.stl");
     translate([-564,49.5,228]) rotate([0,-30,0]) scale([0.66,1,1]) 
             rotate([90,0,0]) cylinder(r=16,h=95);
 }
