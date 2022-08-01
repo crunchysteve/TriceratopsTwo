@@ -1,5 +1,5 @@
-use <../wheelERTRO406-50.scad>
-use <../hexagonalprism.scad>
+use <./wheelERTRO406-50.scad>
+use <./hexagonalprism.scad>
 
 //  groundplane
 color("lightgray") 
