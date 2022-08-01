@@ -15,3 +15,6 @@ As the main frame in the center leans, the crossmember tries to find its natural
 * No-salvaged rear triangle.
 * Add ISO disk brake mounts to front wheels.
 * Detail some of the handle components and how to modify standard inch 1/8 stems and a drop or bullhorn bar to work as handles on either side of the crossmember.
+
+# 2D drawings
+![](MainCrossmember.png)
