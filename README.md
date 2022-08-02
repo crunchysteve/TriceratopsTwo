@@ -1,5 +1,5 @@
 # TriceratopsTwo
-Code updates will be made here, but construction updates will happen over at http://clunkerbike.com/
+Code updates will be made here, but construction updates will happen over at http://clunkerbike.com/ Also, some of my design and artistic opinions might interest you or not at my profile web address, http://shinyhappyrainbows.com/
 
 OpenScad Plans for a lean steering, recumbent, tadpole trike. Apologies, it's a bit of a hot mess right now, will tidy as I go, but this is what I plan to build will look like. How it works is demonstrated by the GIF below this main image. Some points to note. 
 * I'm using a donor bike for the rear triangle, you will need to design your own rear end or use a donor bike and modify this model.
