@@ -11,7 +11,8 @@ As the main frame in the center leans, the crossmember tries to find its natural
 ![](LeanSteer.gif)
 
 #Still to be done
-* Tidy OpenSCAD code - there is some lazy coding and I want to break the master model into a list of its parts as include files.
-* No-salvaged rear triangle.
+* Tidy OpenSCAD code - separate frame and illustrative parts now done, tighter, more mathematical code will be added/improved over time.
+* Non-salvaged rear triangle.
 * Add ISO disk brake mounts to front wheels.
 * Detail some of the handle components and how to modify standard inch 1/8 stems and a drop or bullhorn bar to work as handles on either side of the crossmember.
+* Tidy images and provide 2D dimensioned drawings.
