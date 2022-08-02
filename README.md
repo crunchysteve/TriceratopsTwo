@@ -17,3 +17,10 @@ As the main frame in the center leans, the crossmember tries to find its natural
 * Detail some of the handle components and how to modify standard inch 1/8 stems and a drop or bullhorn bar to work as handles on either side of the crossmember.
 * Tidy images and provide 2D dimensioned drawings.
 
+## Aggressive Elevational Views
+## Front
+![](/images/LeanSteerFront.png)
+## Right
+![](/images/LeanSteerRight.png)
+## Overhead
+![](/images/LeanSteerOverhead.png)
