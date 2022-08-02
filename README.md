@@ -9,7 +9,7 @@ OpenScad Plans for a lean steering, recumbent, tadpole trike. How it works is de
 ![](LeenSteerMaster.png)
 
 # This is how it works.
-As the main frame in the center leans, the crossmember tries to find its natural level by turning clockwise for a righthand lean or, counter-clockwise for a lefthand lean, and is able to do this as the steering head is on a 45 degree forward angle. Tie rods between the top edge of the main frame and axle brackets, pivoted at each end of the crossmember, tilt the front wheels to lean in unison with the rear wheel. Enjoy this GIF animation as a implified deomonstration.
+As the main frame in the center leans, the crossmember tries to find its natural level by turning clockwise for a righthand lean or, counter-clockwise for a lefthand lean, and is able to do this as the steering head is on a 45 degree forward angle. Tie rods between the top edge of the main frame and axle brackets, pivoted at each end of the crossmember, tilt the front wheels to lean in unison with the rear wheel. Enjoy this GIF animation as a simplified deomonstration.
 ![](LeanSteer.gif)
 
 #Still to be done
