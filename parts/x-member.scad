@@ -3,7 +3,7 @@ use <./bolts.scad>
 crossMember();
 translate([-34,-240,-8.5]) rotate([0,90,0]) kingpin();
 
-module crossMember(){
+module crossMember() color("lightblue"){
     xMemShell();
     translate([0,-240,-8.5]) kingBush();
     translate([0,240,-8.5]) kingBush();

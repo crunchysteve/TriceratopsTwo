@@ -32,7 +32,8 @@ color("silver"){
 }
 
 //  wheels
-    translate([0,-314,-149.5]) scale([1,100/135,1]) wheel();
-    translate([-900,0,-149.5]) wheel();
-    translate([0,314,-149.5]) 
-            mirror([0,1,0]) scale([1,100/135,1]) wheel();
+    translate([0,-356,96.5]) rotate([90,0,0]) nut(14);
+    translate([0,-306,-149.5]) wheel();
+    translate([-900,0,-149.5]) scale([1,1.35,1]) wheel();
+    translate([0,306,-149.5]) mirror([0,1,0]) wheel();
+    translate([0,356,96.5]) rotate([90,0,0]) nut(14);
