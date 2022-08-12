@@ -16,9 +16,9 @@ module steerer() rotate([0,45,0]) difference(){
     union(){
         cylinder(r=16,h=20*sqrt(2));
         cylinder(r=14.8,h=20*sqrt(2)+3);
-        cylinder(r=14.3,h=185);
+        cylinder(r=14.3,h=190);
     }
-    translate([0,0,-1]) cylinder(r=12.7,h=187);
+    translate([0,0,-1]) cylinder(r=12.7,h=192);
 }
 
 module endcover() rotate([45,0,0,]) cube([39,1.6,24]);

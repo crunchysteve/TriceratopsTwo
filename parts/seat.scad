@@ -7,7 +7,7 @@ module seat(){
 }
 
 module seat2() color("sienna"){
-    translate([-26,-20,0]) cube([19,40,50]);
+    //translate([-26,-20,0]) cube([19,40,50]);
     difference(){
         translate([-240,-125,0]) rotate([0,-12,0]) cube([240,250,10]);
         translate([0,90,-1]) rotate([0,0,45]) cube([50,50,12]);
