@@ -2,8 +2,10 @@
 Code updates will be made here, but construction updates will happen over at http://clunkerbike.com/ Also, some of my design and artistic opinions might interest you or not at my profile web address, http://shinyhappyrainbows.com/
 
 OpenScad Plans for a lean steering, recumbent, tadpole trike. How it works is demonstrated by the GIF below this main image. Some points to note. 
-* I'm using a donor bike for the rear triangle, you will need to design your own rear end or use a donor bike and modify this model.
-* The Star Trek like "saucer bracket" in front of the steering head is to elevate the crank bracket a little and protect the steering head from collision with a rock, stump or similar obstacle.
+* I'm using a donor bike for the rear triangle, you will need to design your own rear end or use a donor bike and modify this model. I'll be designing and building my own rear triangle for frame version two. This will probably also be a frame for a shorter person than me, so the pedal bracket and frame front will be shorter. Wheelbase won't change.
+* I'm considering an integrated pannier rack. Stronger and a tiny tad lighter than a bolt on.
+* The 12° angles on the seat beam and on the pedal bracket beams are for better ergonmics.
+* The steering head heaight is now 120mm, making the minimum steerer length 190mm.
 * You build and use this machine at your own risk!
 
 ![](./LeenSteerMaster.png)
