@@ -10,8 +10,8 @@ eg: torwards the middle of the trike, as that's where the ISO mounts will be, on
 The disc side flange is 58mm hole circle, the outside is a 46mm hole circle I'll be using these spokes...
 - Inside spokes: https://bmxworks.com.au/stainless-steel-spokes-14g-x-180mm-long/
 - Outside spokes: https://bmxworks.com.au/stainless-steel-spokes-14g-x-184mm-long/
-[FreeSpoke front-left wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=19&wR=35&dL=46&dR=58&s=2.6&ho=-8&n=28&xL=2&xR=2)
-[FreeSpoke front-right wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=35&wR=19&dL=46&dR=58&s=2.6&ho=8&n=28&xL=2&xR=2)
+- [FreeSpoke front-left wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=19&wR=35&dL=46&dR=58&s=2.6&ho=-8&n=28&xL=2&xR=2)
+- [FreeSpoke front-right wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=35&wR=19&dL=46&dR=58&s=2.6&ho=8&n=28&xL=2&xR=2)
 
 ### Rear Wheel (1x, it's a tricycle!)
 For the rear, it gets more complex, because there's the 15mm disk offset on the left and the 52mm cassette offset on the right. I've also "cold forged" 
