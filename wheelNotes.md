@@ -32,5 +32,5 @@ Hey, I can machine 1.5mm off the drive side spokes and there should still be ple
 
 ### Summary
 If you build Triceratops, your wheels and parts will probably be different, so measure everything twice and doublecheck your calculations, so you don't 
-have to order, wait and lace twice. I can't recommend [FreeSpoke](https://kstoerz.com/freespoke/) or the Quick Spoke app highly enough, they're awesome. 
+have to order, wait and lace twice. I can't recommend [FreeSpoke](https://kstoerz.com/freespoke/) or the [Quick Spoke](https://apps.apple.com/au/app/quick-spoke/id589284222) app highly enough, they're awesome. 
 If you have one, measure with a vernier or a digital caliper.
