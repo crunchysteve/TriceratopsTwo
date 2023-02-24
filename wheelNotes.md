@@ -13,6 +13,8 @@ The disc side flange is 58mm hole circle, the outside is a 46mm hole circle I'll
 - [FreeSpoke front-left wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=19&wR=35&dL=46&dR=58&s=2.6&ho=-8&n=28&xL=2&xR=2)
 - [FreeSpoke front-right wheel calculation](https://kstoerz.com/freespoke/?link=1&e=392&oL=2&oR=2&wL=35&wR=19&dL=46&dR=58&s=2.6&ho=8&n=28&xL=2&xR=2)
 
+![Front-left wheel, outside view](https://kstoerz.com/freespoke/render_lacing.php?n=28&xl=2&xr=2&pcdl=46&pcdr=58&erd=392&anchor=erdtop&demo=0&side=L&label=Left%20Side)
+
 ### Rear Wheel (1x, it's a tricycle!)
 For the rear, it gets more complex, because there's the 15mm disk offset on the left and the 52mm cassette offset on the right. I've also "cold forged" 
 and drilled out my donor bike 135mm O.L.D. rear triangle to use the Meroca Boost 142 "standard" hub. (Note to self: read eBay listings better <rolleyes>)
@@ -25,6 +27,7 @@ the non-drive side and 16x 178mm spokes on the drive side. My supplier doesn't d
 Hey, I can machine 1.5mm off the drive side spokes and there should still be plenty of thread. So that's 32 of these puppies...
  - https://bmxworks.com.au/stainless-steel-spokes-14g-x-180mm-long/
  - [FreeSpoke rear wheel calculation](https://kstoerz.com/freespoke/?link=1&e=376&oL=2&oR=2&wL=35&wR=19&dL=58&dR=58&s=2.6&n=32&xL=3&xR=3)
+ ![Rear wheel, Non- drive side view[(https://kstoerz.com/freespoke/render_lacing.php?n=32&xl=3&xr=3&pcdl=58&pcdr=58&erd=376&anchor=erdtop&demo=0&side=L&label=Left%20Side)
 
 ### Summary
 If you build Triceratops, your wheels and parts will probably be different, so measure everything twice and doublecheck your calculations, so you don't 
