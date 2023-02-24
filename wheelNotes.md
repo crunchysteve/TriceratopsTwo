@@ -24,7 +24,7 @@ frame-centre), both flanges at 58mm hole circle diameter, brake flange 35mm from
 the non-drive side and 16x 178mm spokes on the drive side. My supplier doesn't do shorter than 180, so I'll be using 32x 180mm spokes across the board. 
 Hey, I can machine 1.5mm of the drive side spokes and there should still be plenty of thread. So that's 32 of these puppies...
  - https://bmxworks.com.au/stainless-steel-spokes-14g-x-180mm-long/
-[FreeSpoke rear wheel calculation](https://kstoerz.com/freespoke/?link=1&e=376&oL=2&oR=2&wL=35&wR=19&dL=58&dR=58&s=2.6&n=32&xL=3&xR=3)
+ - [FreeSpoke rear wheel calculation](https://kstoerz.com/freespoke/?link=1&e=376&oL=2&oR=2&wL=35&wR=19&dL=58&dR=58&s=2.6&n=32&xL=3&xR=3)
 
 ### Summary
 If you build Triceratops, your wheels and parts will probably be different, so measure everything twice and doublecheck your calculations, so you don't 
