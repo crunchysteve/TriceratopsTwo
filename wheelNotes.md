@@ -35,4 +35,4 @@ If you build Triceratops, your wheels and parts will probably be different, so m
 have to order, wait and lace twice. I can't recommend [FreeSpoke](https://kstoerz.com/freespoke/) or the [Quick Spoke](https://apps.apple.com/au/app/quick-spoke/id589284222) app highly enough, they're awesome. 
 If you have one, measure with a vernier or a digital caliper.
  
-For those using android, try [Kahaki Spoke Tool](https://play.google.com/store/apps/details?id=pl.kahaki.spoketool&hl=en_US&gl=US&pli=1)
+For those using android, try [Kahaki Spoke Tool](https://play.google.com/store/apps/details?id=pl.kahaki.spoketool&hl=en_US&gl=US&pli=1).
