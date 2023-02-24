@@ -22,7 +22,7 @@ it's only a 3.5mm stretch for the rear tri. The hub still pretty much just drops
 So, again, turning to FreeSpoke, and entering my hub and rim figures, using 376mmm ERD rim, an 8mm hub offset (centring the tyre on the trike's 
 frame-centre), both flanges at 58mm hole circle diameter, brake flange 35mm from the centreline, cassette flange 19mm, we get 16x 180mm spokes on 
 the non-drive side and 16x 178mm spokes on the drive side. My supplier doesn't do shorter than 180, so I'll be using 32x 180mm spokes across the board. 
-Hey, I can machine 1.5mm of the drive side spokes and there should still be plenty of thread. So that's 32 of these puppies...
+Hey, I can machine 1.5mm off the drive side spokes and there should still be plenty of thread. So that's 32 of these puppies...
  - https://bmxworks.com.au/stainless-steel-spokes-14g-x-180mm-long/
  - [FreeSpoke rear wheel calculation](https://kstoerz.com/freespoke/?link=1&e=376&oL=2&oR=2&wL=35&wR=19&dL=58&dR=58&s=2.6&n=32&xL=3&xR=3)
 
