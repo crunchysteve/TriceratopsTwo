@@ -1,5 +1,5 @@
 ## Wheel build
-I'm using Novatec D981SB--12, disc brake, front, 12mm thru-axle hubs with some 28 spoke trailer rims from a kiddie hauler I scrounged from Melbourne's 
+I'm using Novatec D981SB-12, disc brake, front, 12mm thru-axle hubs with some 28 spoke trailer rims from a kiddie hauler I scrounged from Melbourne's 
 wonderful hard rubbish culture and a Meroca 32 hole disk rear 9/10/11 speed hub with a Chinese rim sourced via eBay. The wheel build spec is bog standard 
 14G spokes.
 
