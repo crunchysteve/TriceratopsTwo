@@ -28,7 +28,7 @@ Hey, I can machine 1.5mm off the drive side spokes and there should still be ple
  - https://bmxworks.com.au/stainless-steel-spokes-14g-x-180mm-long/
  - [FreeSpoke rear wheel calculation](https://kstoerz.com/freespoke/?link=1&e=376&oL=2&oR=2&wL=35&wR=19&dL=58&dR=58&s=2.6&n=32&xL=3&xR=3)
  
- ![Rear wheel, Non- drive side view[(https://kstoerz.com/freespoke/render_lacing.php?n=32&xl=3&xr=3&pcdl=58&pcdr=58&erd=376&anchor=erdtop&demo=0&side=L&label=Left%20Side)
+ ![Rear wheel, Non- drive side view](https://kstoerz.com/freespoke/render_lacing.php?n=32&xl=3&xr=3&pcdl=58&pcdr=58&erd=376&anchor=erdtop&demo=0&side=L&label=Left%20Side)
 
 ### Summary
 If you build Triceratops, your wheels and parts will probably be different, so measure everything twice and doublecheck your calculations, so you don't 
