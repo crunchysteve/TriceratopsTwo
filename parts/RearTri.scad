@@ -1,3 +1,6 @@
+rearTriangle();
+
+module rearTriangle() color("gray"){
 lwrBrckt();
 translate([0,2.5,0]){
     translate([-80,0,160]) 
@@ -30,7 +33,7 @@ rotate([0,-109.4,0]){
     rotate([0,90,0]) cylinder(r=3,h=174);
     translate([174,16,0]) rotate([90,0,0]) cylinder(r=3,h=32 );
 }
-
+}
 
 module upright() rotate([0,-30,0]) difference(){
     linear_extrude(height=195) difference(){

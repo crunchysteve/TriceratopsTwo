@@ -10,6 +10,5 @@ module frntBrkt() color("silver"){
         cube([375,30,30],center=true);
         cube([377,26.8,26.8],center=true);
         translate([175,35,0]) rotate([90,0,0]) cylinder(r=20,h=70);
-        translate([-210,0,-15]) rotate([0,45,0]) cube(60,center=true);
     }
 }

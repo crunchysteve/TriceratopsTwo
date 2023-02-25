@@ -1,11 +1,11 @@
 tierod();
 
 module tierod(){
-    translate([12.5,-17.5,83.5]) rotate([3,0,0]) flexCple();
-    translate([10,-235,74.5]) rotate([3,0,0]) 
+    translate([12.5,-49,-3]) flexCple();
+    translate([10,-275,0]) 
             rotate([0,90,0]) mirror([0,1,0]) flexCple();
-    color("lightblue") translate([12.5,-45,85.7]) 
-            rotate([93.4,0,0]) cylinder(r=5,h=164);
+    color("lightblue") translate([12.5,-72,0]) 
+            rotate([90,0,0]) cylinder(r=5,h=175);
 }
 
 module flexCple() color("silver") difference(){
