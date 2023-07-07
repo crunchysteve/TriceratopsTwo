@@ -1,3 +1,6 @@
+[Discuss the code or seek support for any of my code projects at my discussions page.](https://github.com/crunchysteve/crunchysteve.github.io/discussions)
+***
+
 # TriceratopsTwo
 Code updates will be made here, but construction updates will happen over at http://clunkerbike.com/ Also, some of my design and artistic opinions might interest you or not at my profile web address, http://shinyhappyrainbows.com/
 
