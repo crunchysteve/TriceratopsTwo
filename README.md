@@ -22,7 +22,7 @@ As the main frame in the center leans, the crossmember tries to find its natural
 * Tidy images and provide 2D dimensioned drawings.
 
 ## Aggressive Elevational Views
-It's unlikely that a rider would ever need to corner this machine this tightly. Can you corner a bicycle inside a 2m radius? (Well, maybe some stunters can, but it's not common commuter or mixed traffic usage.)
+It's unlikely that a rider would ever need to corner this machine this tightly. Can you corner a bicycle inside a 2m radius? (Well, maybe some stunters can, but it's not common commuter or mixed traffic usage.) Also, not noticed at the time of creating these "extremes", the back wheel, in leaning, tilts the trike slightly backwards, as well. This has front traction and wheel loading benefits - a happy accident. It probably also makes the back end traction slightly "loose", like a classic, rear wheel drive sports car.
 ### Front
 ![](/images/LeanSteerFront.png)
 ### Right
