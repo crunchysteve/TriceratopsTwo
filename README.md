@@ -22,9 +22,10 @@ As the main frame in the center leans, the crossmember tries to find its natural
 * Tidy images and provide 2D dimensioned drawings.
 
 ## Aggressive Elevational Views
-## Front
+It's unlikely that a rider would ever need to corner this machine this tightly. Can you corner a bicycle inside a 2m radius? (Well, maybe some stunters can, but it's not common commuter or mixed traffic usage.)
+### Front
 ![](/images/LeanSteerFront.png)
-## Right
+### Right
 ![](/images/LeanSteerRight.png)
-## Overhead
+### Overhead
 ![](/images/LeanSteerOverhead.png)
